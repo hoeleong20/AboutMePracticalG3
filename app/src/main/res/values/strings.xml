@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMePracticalG3</string>
+    <string name="name">Hoe Leong</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem Ipsum is simply dummy text of the printing and typesetting
+        \n\n\nindustry. Lorem Ipsum has been the industry\'s standard dummy
+        \n\n\ntext ever since the 1500s, when an unknown printer took a galley
+        \n\n\nof type and scrambled it to make a type specimen book. It has
+        \n\n\nsurvived not only five centuries, but also the leap into electronic
+        \n\n\ntypesetting, remaining essentially unchanged. It was popularised in
+        \n\n\nthe 1960s with the release of Letraset sheets containing Lorem
+        \n\n\nIpsum passages, and more recently with desktop publishing
+        \n\n\nsoftware like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
