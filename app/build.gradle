@@ -29,6 +29,11 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    //after modified gradle file then do sync now
+    buildFeatures{
+        dataBinding true
+    }
 }
 
 dependencies {
